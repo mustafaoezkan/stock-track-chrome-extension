@@ -1,0 +1,4 @@
+/node_modules
+/dist
+/src/components/enums/connection.js
+/src/components/enums/myStocks.js
